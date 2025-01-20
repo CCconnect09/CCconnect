@@ -1,0 +1,25 @@
+{
+    "name": "confess",
+    "version": "1.0.0",
+    "description": "A website for student complaint reporting built with Laravel 9",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "watch": "vite build --watch"
+    },
+    "author": "alfianchii",
+    "license": "MIT",
+    "keywords": [
+        "application",
+        "laravel",
+        "school",
+        "reporting"
+    ],
+    "devDependencies": {
+        "axios": "^1.5.1",
+        "laravel-vite-plugin": "^0.7.4",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "vite": "^4.4.11"
+    }
+}
